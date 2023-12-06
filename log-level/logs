@@ -1,0 +1,17 @@
+ERROR-LOG[ExceptionMonitor][03.12.2023 18:47:17.549]: ReferenceError: a is not defined
+    at Object.<anonymous> (/home/kotik9821/Desktop/utils/test.js:3:13)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+ERROR-LOG[Exception][03.12.2023 18:52:03.180]: ReferenceError: a is not defined
+    at Object.<anonymous> (/home/kotik9821/Desktop/utils/test.js:3:13)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+LOG[Close][03.12.2023 18:52:06.169]: This is program stopping
